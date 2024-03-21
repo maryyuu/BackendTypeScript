@@ -1,0 +1,30 @@
+[
+    {
+        "id" : 1 ,
+        "name" : "Tarea JavaScript",
+        "date" : "22-03-2019",
+        "level" : "hard",
+        "description": "Realize un formulario de Registro"
+    },
+    {
+        "id" : 2 ,
+        "name" : "Tarea Go",
+        "date" : "27-03-2019",
+        "level" : "Easy",
+        "description": "Realize un crud"
+    },
+    {
+        "id" : 3 ,
+        "name" : "Tarea Python",
+        "date" : "29-03-2019",
+        "level" : "Medium",
+        "description": "Realize un get"
+    },
+    {
+        "id" : 4 ,
+        "name" : "Tarea Typescript",
+        "date" : "22-07-2019",
+        "level" : "hard",
+        "description": "Cree un aplicativo usted solo de web y backend"
+    }
+]
